@@ -21,5 +21,5 @@
 
 ## **Exploration Nodes**
 
-- E1. 인공지능과 가위바위보 하기
+- E1. [인공지능과 가위바위보 하기](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E1_rock_scissor_paper.ipynb)
 - E2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?
