@@ -17,7 +17,7 @@
 - F9. 다양한 데이터 전처리 기법
 - F10. 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리
 - F11. 사이킷런으로 구현해 보는 머신러닝
-- F12. 파이썬으로 이미지 파일 다루기
+- F12. [파이썬으로 이미지 파일 다루기](https://github.com/nanunzoey/aiffel_projects/blob/master/fundamental/F12_get_similar_images.ipynb)
 
 ## **Exploration Nodes**
 
