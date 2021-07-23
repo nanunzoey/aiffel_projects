@@ -20,9 +20,11 @@
 - F12. [파이썬으로 이미지 파일 다루기](https://github.com/nanunzoey/aiffel_projects/blob/master/fundamental/F12_get_similar_images.ipynb)
 - F13. 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기
 - F14. 딥러닝과 신경망의 본질
+- F15. 딥러닝 들여다보기
 
 ## **Exploration Nodes**
 
 - E1. [인공지능과 가위바위보 하기](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E1_rock_scissor_paper.ipynb)
-- E2. Iris의 세 가지 품종, 분류해볼 수 있겠어요?
+- E2. [Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E2_sklearn_toy_dataset_classifier.ipynb)
 - E3. 카메라 스티커앱 만들기 첫걸음
+- E4. 작사가 인공지능 만들기
