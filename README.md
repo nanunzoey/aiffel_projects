@@ -21,6 +21,8 @@
 - F13. 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기
 - F14. 딥러닝과 신경망의 본질
 - F15. 딥러닝 들여다보기
+- F16. 선형 회귀와 로지스틱 회귀
+- F17. [비지도학습](https://github.com/nanunzoey/aiffel_projects/blob/master/fundamental/F17_unsupervised_learning.ipynb)
 
 ## **Exploration Nodes**
 
