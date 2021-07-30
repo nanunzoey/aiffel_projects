@@ -3,6 +3,8 @@
 - Projects From Aiffel
 - From June To December of 2021
 
+<br>
+
 ## **Fundamental Nodes**
 
 - F0. Ready to go?
@@ -24,9 +26,11 @@
 - F16. 선형 회귀와 로지스틱 회귀
 - F17. [비지도학습](https://github.com/nanunzoey/aiffel_projects/blob/master/fundamental/F17_unsupervised_learning.ipynb)
 
+<br>
+
 ## **Exploration Nodes**
 
 - E1. [인공지능과 가위바위보 하기](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E1_rock_scissor_paper.ipynb)
 - E2. [Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E2_sklearn_toy_dataset_classifier.ipynb)
 - E3. [카메라 스티커앱 만들기 첫걸음](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E3_face_sticker.ipynb)
-- E4. 작사가 인공지능 만들기
+- E4. [작사가 인공지능 만들기](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E4_my_brilliant_lyricist.ipynb)
