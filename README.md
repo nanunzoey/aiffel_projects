@@ -25,6 +25,14 @@
 - F15. 딥러닝 들여다보기
 - F16. 선형 회귀와 로지스틱 회귀
 - F17. [비지도학습](https://github.com/nanunzoey/aiffel_projects/blob/master/fundamental/F17_unsupervised_learning.ipynb)
+- F18. TF2 API 개요
+- F19. 딥네트워크, 서로 뭐가 다른거죠?
+- F20. 딥러닝 레이어의 이해(1) Linear, Convolution
+- F21. 딥러닝 레이어의 이해(2) Embedding, Recurrent
+- F22. Regularization
+- F23. 활성화 함수의 이해
+- F24. Likelihood(MLE와 MAP)
+- F25. 컴퓨터 파워 UP
 
 <br>
 
@@ -34,3 +42,8 @@
 - E2. [Iris의 세 가지 품종, 분류해볼 수 있겠어요?](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E2_sklearn_toy_dataset_classifier.ipynb)
 - E3. [카메라 스티커앱 만들기 첫걸음](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E3_face_sticker.ipynb)
 - E4. [작사가 인공지능 만들기](https://github.com/nanunzoey/aiffel_projects/blob/master/exploration/E4_my_brilliant_lyricist.ipynb)
+- E5. 나랑 닮은 연예인은 누구?
+- E6. 나의 첫 번째 개글 경진대회, 무작정 따라해보기
+- E7. 영화리뷰 텍스트 감성분석하기
+- E8. 인물사진을 만들어 보자
+- E9. 아이유팬이 좋아할 만한 다른 아티스트 찾기
